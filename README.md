@@ -1,9 +1,9 @@
 # Financial Analysis of Kindergarten, Aug 2025 to Sep 2026
+![Financial overview](images/Overview.png)
 
 ## Purpose
 To give insight of kindergarten's surplus or deficit, 
 cashflow source and how many student is needed to break even for principal and owner. 
-
 
 ## Data 
 |Table | Content | Key columns |
@@ -68,11 +68,10 @@ Reconcilliation checks: Total Revenue + Excluded Revenue = Revenue (All Types); 
 | Attendance | Attendance trend, absence reasons, weekday pattern, student-level table |
 | Finance vs Attendance | Per-student economics, break-even enrolment, cumulative surplus |
 
-![Financial overview](images/Overview.png)
 ![Revenue](images/Revenue.png)
 ![Expense](images/Expense.png)
 ![Attendance](images/Attendance.png)
-![Finance_vs_Attendance](images/Finance vs Attendance.png)
+![FinancevsAttendance](images/Finance vs Attendance.png)
 
 ## Analysis and findings
 #### Financial result
@@ -100,4 +99,4 @@ Reconcilliation checks: Total Revenue + Excluded Revenue = Revenue (All Types); 
 - Planned: budget vs actual, enrolment forecast, deferred revenue view for next year fees. 
 
 ## Authhor
-Khishigbayar. B, Date of last update: 11 November 2026. 
+Khishigbayar. B, Date of last update: 11 November 2026. LinkedIn: www.linkedin.com/in/khishigbayar-byambadorj-b800ab161
