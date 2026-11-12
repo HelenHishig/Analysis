@@ -71,7 +71,7 @@ Reconcilliation checks: Total Revenue + Excluded Revenue = Revenue (All Types); 
 ![Revenue](images/Revenue.png)
 ![Expense](images/Expense.png)
 ![Attendance](images/Attendance.png)
-![FinancevsAttendance](images/Finance vs Attendance.png)
+![FinancevsAttendance](images/FinancevsAttendance.png)
 
 ## Analysis and findings
 #### Financial result
