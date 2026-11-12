@@ -1,0 +1,12 @@
+# Real data (keep private)
+data/*.csv
+!data/sample_*.csv
+
+# Power BI file (embeds the data and connection details)
+*.pbix
+
+#Editor and environment files
+.vscode/
+.env
+*.log
+.DS_Store
