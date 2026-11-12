@@ -88,9 +88,11 @@ Reconcilliation checks: Total Revenue + Excluded Revenue = Revenue (All Types); 
 - Monthly active students range from 30s to about 40, so using 49 active students understates revenue and cost per student. 
 
 ## Recommendations
-- Keep a cash reserve to cover August and September costs to precede new tuition. 
-- Review the salary and social security and tax as it affects the profitability. 
-- Spread tuition instalment schedule to reduce reliance on three lump payments and late balances. 
+1. **Keep a cash reserve to cover August and September costs to precede new tuition. ** Staff and operating costs (about 44.8 million MNT in August and September 2026) are paid before the new academic year's tuition arrive. Cumulative surplus fell from about 72 million MNT to about 48 million MNT between March and July 2026, so the reserve should cover at least these two months. 
+2. **Review the salary and social security and tax as it affects the profitability as this expenses make up about 86% of total expenses. Compare staffing against enrolment each term. 
+3. **Spread tuition instalment schedule to reduce reliance on three lump payments and late balances. Instalment plans or payment reminders would smooth cash flow and reduce reliance on late collections.
+4. **Budget next year with a higher break-even. ** The 2025-2026 break-even is about 43 students against 49 enrolled, but monthly active students were only in the high 30s to about 40. Plan enrolment targets from average average monthly students, not the yearly total. 
+5. ** Follow up students below 85% attendance**, ignoring students with very few records, and standardise how Absent, Sick and Leave are recorded so trends can be compared across months. 
 
 ## Limitations 
 - Revenue has no student_id, so payments can not be matched to students. 
