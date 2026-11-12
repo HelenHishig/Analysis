@@ -76,11 +76,11 @@ Reconcilliation checks: Total Revenue + Excluded Revenue = Revenue (All Types); 
 
 ## Analysis and findings
 #### Financial result
-- Kindergarten's revenue from tuition and other source is about 380 million MNT while total expense excluding intercompany loan and owner draw is 377 million MNT which resuling in about 2.8 million MNT operating surplus. The reason of operating surplus being low is August and September expenses about 44.8 million MNT appears, which is counted to academic year of 2025-2026, while revenue from this months are counted to academic year of 2026-2027.
-- Collected revenue is highest in August and September 2025 about 127 million MNT, December 2025 and March 2026 is 131 million MNT, which indicates payment schedule is being followed significantly. Payments cluster around 15th and 25th of the month. 
+- Kindergarten's revenue from tuition and other source is about 380 million MNT while total expense excluding intercompany loan and owner draw is 377 million MNT. For August 2025 to July 2026 operating surplus is about 47.6 million (about 12.5%), however expenses related to academic year 2025-2026 recorded in August and September 2026 and resulting 2.8 million MNT operating surplus. The revenue recorded in these months are counted to academic year 2026-2027 therefore excluded from the data. 
+- Collected revenue is highest in August and September 2025 about 127 million MNT, December 2025 and March 2026 is 130 million MNT, which indicates payment schedule is being followed significantly. Payments cluster around 15th and 25th of the month. 
 - Salary is 62% and social security and tax 24% of expenses, combined about 86%. Food supply is around at 8%. 
 - Cash peaked at about 72 million MNT in March 2026 and fell to about 47 million MNT by July 2026. August and September costs are for the academic year 2025-2026 and there is not enough evidence that revenue from the new academic year is used within this period. Thus cash reserve is the key to planning. 
-- Overall attendance 93% across about 5,900 records and 49 students. Lowest attendance month is December which is the result of weather induced sickness, holiday travel plan, as well as school holiday break. Friday has the most absences. 
+- Overall attendance 93% across about 5,900 records and 49 students. Lowest attendance month is December which might be the result of weather induced sickness, holiday travel plan, as well as school holiday break. Friday has the most absences. 
 - In January 2026 records are recorded as sick without absent days, which suggest that school holiday break and family holiday travel plan effects the total student attending to kindergarten and lowering the number of attendees. 
 - Nine students has below 85%; several have very few records which might be the student joining during mid-year, so the true count is lower. 
 - No visible month-to-month relationship between attendance and surplus cash timing dominates. 
